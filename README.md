@@ -1,2 +1,1 @@
-# DataCamp_projects
-My DataCamp project solutions
+# DataCamp_projects_solutions
